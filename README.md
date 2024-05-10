@@ -45,4 +45,4 @@ Ensure that the dataset file (Attrition.csv) is located in the same directory as
 ## Note
 
 Adjustments to the script or dataset can be made as needed for specific analyses.
-For any issues or inquiries, please contact [gabrielkelvin184@gmail.com].
+For any issues or inquiries, please contact gabrielkelvin184@gmail.com.
