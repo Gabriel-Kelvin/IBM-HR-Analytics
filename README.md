@@ -1,6 +1,6 @@
 # Employee Attrition Analysis
 
-This repository contains a Python script (`employee_attrition_analysis.py`) to analyze employee attrition using machine learning models.
+This repository contains a Python script (`analysis.py`) to analyze employee attrition using machine learning models.
 
 ## Prerequisites
 
@@ -12,13 +12,13 @@ This repository contains a Python script (`employee_attrition_analysis.py`) to a
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/employee-attrition-analysis.git
+git clone https://github.com/Gabriel-Kelvin/IBM-HR-analytics.git
 ```
 
 ## 2. Navigate to the Project Directory
 
 ```bash
-cd employee-attrition-analysis
+cd IBM-HR-Analytics
 ```
 
 ## 3. Install Required Libraries
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ## 4. Run the Script
 
 ```bash
-python employee_attrition_analysis.py
+python analysis.py
 ```
 
 ## 5. View Results
